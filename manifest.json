@@ -1,7 +1,7 @@
 {
   "name": "KS Homeopathy",
   "short_name": "Homeopathy",
-  "start_url": "/",
+  "start_url": "https://www.kshomeopathy.in/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4caf50",
