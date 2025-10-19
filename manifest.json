@@ -8,12 +8,12 @@
   "description": "Homeopathy education and updates",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaaSgDhOsGZt9GeN4RxDZCTyxMvDLKMV6PvxhOMVVAaLdviklaVzkzcg9jsldsBqFtIesHXTfTTPNu-VsqGRhwGx6_5klvtKD5osUpokeonhDJ9FU75b_WXuEt0NMCbKo6IrhGRwjPmKup/s703/IMG_20211204_153040.jpg",
+      "src": "docs/icon.png",
       "sizes": "192x192",
       "type": "image/jpeg"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaaSgDhOsGZt9GeN4RxDZCTyxMvDLKMV6PvxhOMVVAaLdviklaVzkzcg9jsldsBqFtIesHXTfTTPNu-VsqGRhwGx6_5klvtKD5osUpokeonhDJ9FU75b_WXuEt0NMCbKo6IrhGRwjPmKup/s703/IMG_20211204_153040.jpg",
+      "src": "docs/icon.png",
       "sizes": "512x512",
       "type": "image/jpeg"
     }
